@@ -1,0 +1,27 @@
+{
+  "name": "create-gitnore",
+  "version": "1.0.0",
+  "description": "Create .gitignore default file from github/gitignore",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwafa/create-gitnore.git"
+  },
+  "bin": {
+    "create-gitnore": "./index.js"
+  },
+  "keywords": [
+    "gitignore",
+    "github"
+  ],
+  "author": "mwafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwafa/create-gitnore/issues"
+  },
+  "homepage": "https://github.com/mwafa/create-gitnore#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}

@@ -9,7 +9,7 @@
     "url": "git+https://github.com/mwafa/create-gitnore.git"
   },
   "bin": {
-    "create-gitnore": "./index.js"
+    "create-gitnore": "index.js"
   },
   "keywords": [
     "gitignore",
